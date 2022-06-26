@@ -32,3 +32,26 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Useful Commands
+
+- yarn create next-app --typescript
+
+- yarn add prettier @typescript-eslint/eslint-plugin eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks
+
+- yarn add @apollo/client graphql
+
+- yarn add @graphql-codegen/cli
+
+- npx graphql-codegen init
+
+## Useful Links
+
+https://nextjs.org/ - official docs
+
+https://graphcms.com/ - graphql headless cms
+
+https://styled-system.com/ styled system docs
+
+https://github.com/vercel/next.js/discussions/18312 - styling images discussion
